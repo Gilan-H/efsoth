@@ -21,6 +21,8 @@ p{
 img:hover {
     transform: scale(1.02);
     filter: brightness(50%);
+    margin-left: auto;
+    margin-right: auto;
 }
     
 play-button i {
