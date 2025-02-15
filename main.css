@@ -10,16 +10,19 @@ h2 {
     margin-right: auto;
     text-align: center;
     color: #fff;
+    background-color: #00AEF3;
 }
 
 p{
-    font-size: 10px;
+    font-size: 20px;
     color: #fff;
 }
-
+img{
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+}
 img:hover {
     transform: scale(1.02);
     filter: brightness(50%);
-    margin-left: auto;
-    margin-right: auto;
 }
