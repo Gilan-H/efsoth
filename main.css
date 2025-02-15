@@ -4,7 +4,7 @@ body {
 }
 h1,
 h2 {
-    font-size: 35vw;
+    font-size: 35px;
     font-weight: 700;
     margin-left: auto;
     margin-right: auto;
@@ -13,7 +13,7 @@ h2 {
 }
 
 p{
-    font-size: 2vw;
+    font-size: 2px;
 }
 
 img:hover {
