@@ -28,5 +28,5 @@ p{
 }
 .game:hover {
     transform: scale(2.02);
-    filter: brightness(50%);
+    filter: brightness(120%);
 }
