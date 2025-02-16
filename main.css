@@ -2,7 +2,7 @@ body {
     background-color: #1b1b1b;
     font-family: sans-serif;
 }
-.header{
+.header {
     background-color: #00AEF3;
 }
 h1,
@@ -14,11 +14,11 @@ h2 {
     text-align: center;
     color: #fff;
 }
-h3{
+h3 {
     font-size: 25px;
     color: #fff;
 }
-p{
+p {
     font-size: 15px;
     color: #fff;
 }
