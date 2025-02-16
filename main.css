@@ -2,6 +2,10 @@ body {
     background-color: #1b1b1b;
     font-family: sans-serif;
 }
+.all{
+    padding-left: 20px;
+    padding-right: 20px;
+}
 .header {
     background-color: #00AEF3;
     padding: -5px;
