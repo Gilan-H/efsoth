@@ -42,5 +42,5 @@ img {
 }
 .game:hover {
     transform: scale(1.02);
-    filter: brightness(120%);
+    filter: brightness(110%);
 }
