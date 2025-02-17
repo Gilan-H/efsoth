@@ -34,7 +34,9 @@ p,
 ul {
     font-size: 20px;
     color: #fff;
-    margin-right: 400px;
+}
+ul{
+    margin-right: 500px;
 }
 img {
   display: block;
