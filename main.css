@@ -12,12 +12,8 @@ body {
     text-align: center;
     color: #fff;
 }
-p{
-    left-padding: 80px;
-    right-padding: 80px;
-}
 h3 {
-    font-size: 20px;
+    font-size: 30px;
     color: #fff;
     padding-bottom: 0;
 }
