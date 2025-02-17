@@ -48,3 +48,7 @@ ul{
     transform: scale(1.02);
     filter: brightness(110%);
 }
+footer {
+    display: block;
+    margin-left: 0;
+}
