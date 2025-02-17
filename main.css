@@ -2,19 +2,18 @@ body {
     background-color: #1b1b1b;
     font-family: sans-serif;
 }
-.all{
-    padding-left: 800px;
-    padding-right: 80px;
-}
 .header {
     background-color: #00AEF3;
-    padding: -5px;
+    padding: -50px;
     font-size: 35px;
     font-weight: 700;
     margin-left: auto;
     margin-right: auto;
     text-align: center;
     color: #fff;
+}
+p{
+padding: 20px;
 }
 h3 {
     font-size: 20px;
