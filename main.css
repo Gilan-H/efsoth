@@ -12,6 +12,14 @@ body {
     text-align: center;
     color: #fff;
 }
+.all {
+    width: 80%;
+    background-color: burlywood;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 20px;
+    max-width: 500px;
+}
 p{
     left-padding: 80px;
     right-padding: 80px;
